@@ -1,0 +1,25 @@
+# PyTorch и связанные библиотеки
+torch==2.7.0
+torchvision==0.22.0
+torchaudio==2.7.0
+
+# Transformers для SegFormer
+transformers==4.47.0
+
+# Обработка изображений
+Pillow==11.1.0
+
+# Научные вычисления
+numpy==2.2.4
+
+# Утилиты
+tqdm==4.67.1
+
+# Машинное обучение
+scikit-learn==1.6.1
+
+# Визуализация
+matplotlib==3.10.0
+
+# Дополнительные зависимости
+pandas==2.2.3
